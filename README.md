@@ -21,7 +21,7 @@
 	<dt>💞️ I’m looking to collaborate on:</dt>
 	<dd>
 		<ul>
-			<li><i><b>Nothing</b> At the moment I don't have enough time to work on open source projects etc., but if you are looking for someone for such a project who doesn't have to spend a lot of time working on the project or you are someone who can show me something new, with whom I could establish a partnership so that I can gain experience in teamwork then please contact me </i>😉</li>
+			<li><i><b>Nothing</b> (At the moment I don't have enough time to work on open source projects etc., but if you are looking for someone for such a project who doesn't have to spend a lot of time working on the project or you are someone who can show me something new, with whom I could establish a partnership so that I can gain experience in teamwork then please contact me) </i>😉</li>
 		</ul>
 	</dd>
 	<dt>📫 <b>How to reach me:</b></dt>
