@@ -15,7 +15,7 @@
 	<dd>
 		<ul>
 			<li><i><b>Lua</b> (I am a beginner, slowly expanding my knowledge </i>😅<i>)</i></li>
-			<li><i><b>Python</b> (further honing my skills)</i></li>
+			<li><i><b>Java & Python</b> (further honing my skills)</i></li>
 		</ul>
 	</dd>
 	<dt>💞️ I’m looking to collaborate on:</dt>
